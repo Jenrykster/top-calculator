@@ -38,6 +38,10 @@ body{
 #equal{
     background-color: #eeba21;
 }
+#clear{
+    background-color: snow;
+    color:black;
+}
 #buttons{
     display: grid;
     width: 80%;
