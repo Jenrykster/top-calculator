@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+}
+#calculator-body{
+    background-color: #BBB5B5;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    border-radius: 0px 0px 15px 0px;
+}
+#display{
+    background-color: #809A4F;
+    width: 70%;
+    height: 15%;
+    margin-top: 5%;
+    border: 25px #8C878C solid;
+    border-radius: 5px 5px 15px 5px;
+}
+#display h3{
+    font-family: 'Orbitron';
+    text-align: end;
+    color: #08171F
+}
